@@ -1,0 +1,4 @@
+@EndUserText.label: 'Service Definition to Simple Report App'
+define service ZUI_RAP_connection_KND {
+  expose ZI_RAP_CONNECTION_KND;
+}

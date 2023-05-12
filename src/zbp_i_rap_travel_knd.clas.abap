@@ -1,0 +1,5 @@
+CLASS zbp_i_rap_travel_knd DEFINITION PUBLIC ABSTRACT FINAL FOR BEHAVIOR OF zi_rap_travel_knd.
+ENDCLASS.
+
+CLASS zbp_i_rap_travel_knd IMPLEMENTATION.
+ENDCLASS.
